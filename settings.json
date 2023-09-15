@@ -12,53 +12,91 @@
     "git.suggestSmartCommit": false,
     "editor.inlineSuggest.enabled": true,
     "window.zoomLevel": 1,
-    "workbench.colorTheme": "One Dark Pro Darker",
+
     "workbench.colorCustomizations": {
-        "statusBar.noFolderBackground": "#183D3D",
-        "statusBar.background": "#183D3D",
-        "statusBar.foreground": "#93B1A6",
-        "statusBarItem.hoverBackground": "#5C8374",
-        "statusBarItem.remoteBackground": "#183D3D",
-        "statusBarItem.activeBackground": "#5C8374",
-        "statusBarItem.remoteForeground": "#93B1A6",
-        "editor.background": "#000000",
-        "editorOverviewRuler.border": "#5C8374",
-        "editor.selectionBackground": "#5C8374",
-        "editor.foreground": "#93B1A6",
-        "editorSuggestWidget.focusHighlightForeground": "#93B1A6",
-        "editorSuggestWidget.highlightForeground": "#89ffae",
-        "activityBar.background" : "#5C8374",
-        "activityBar.activeBorder": "#93B1A6",
-        "activityBar.activeBackground": "#93B1A6",
-        "activityBar.foreground": "#183D3D",
-        "activityBarBadge.background": "#ff0000",
-        "activityBarBadge.foreground": "#93B1A6",
-        "sideBar.background": "#183D3D",
-        "sideBarSectionHeader.background": "#5C8374",
-        "sideBarSectionHeader.foreground": "#183D3D",
-        "scrollbarSlider.background": "#5C8374",
-        "scrollbarSlider.hoverBackground": "#93B1A6",
-        "scrollbarSlider.activeBackground": "#93B1A6",
-        "scrollbar.shadow": "#183D3D",
-        "sideBarTitle.foreground": "#93B1A6",
-        "toolbar.hoverBackground": "#5C8374",
-        "button.background": "#5C8374",
-        "button.hoverBackground": "#93B1A6",
-        "textLink.foreground": "#5C8374",
-        "textLink.activeForeground": "#93B1A6",
-        "list.inactiveSelectionBackground": "#e1fa016d",
-        "list.activeSelectionBackground": "#e1fa016d",
-        "list.hoverBackground": "#ff0000",
-        "list.inactiveSelectionForeground": "#ffffff",
-        "input.background": "#5C8374",
-        "input.foreground": "#93B1A6",
-        "dropdown.background": "#183D3D",
-        "dropdown.foreground": "#93B1A6",
-        "tab.activeBackground": "#183D3D",
-        "tab.hoverBackground": "#5C8374",
-        "window.activeBorder": "#183D3D",
-        "titleBar.activeBackground": "#183D3D",
-        "titleBar.border": "#93B1A6"
+
+        // Basic Colors for code background and font color and different selections
+        "editor.background": "#2e2e2e",
+        "editor.foreground": "#ffffff",
+        "editor.lineHighlightBackground": "#6c759739",
+        "editorLineNumber.activeForeground": "#ffffff",
+        
+
+        // Color for the bar on the left side with the file icons
+        "activityBar.activeBackground" : "#6c7597",
+        "activityBar.background": "#2e2e2e",
+        "activityBar.foreground": "#ffffff",
+        "activityBar.inactiveForeground": "#ffffff",
+        "activityBar.border": "#6c7597",
+        "activityBarBadge.background": "#800020",
+        "activityBarBadge.foreground": "#ffffff",
+        "activityBar.activeBorder": "#ffffff",
+
+
+        // Input field and font color
+        "input.background": "#ffffff",
+        "input.foreground": "#000000",
+
+
+        // Button color
+        "button.background": "#800020",
+        "button.foreground": "#ffffff",
+
+
+        // Text with link color
+        "textLink.foreground": "#FFFACD",
+        "textLink.activeForeground": "#FFD700",
+        
+
+        // Active Tab for file color
+        "tab.activeBackground": "#6c7597",
+        "tab.activeForeground": "#ffffff",
+        "tab.hoverBackground": "#6c7597",
+        "tab.hoverForeground": "#ffffff",
+
+
+        // Bar with the tabs for the files / folders
+        "sideBar.background": "#6c7597",
+        "sideBar.foreground": "#ffffff",
+        "sideBarTitle.foreground": "#ffffff",
+        "sideBarSectionHeader.background": "#6c7597",
+        
+
+        // "sideBarSectionHeader.foreground": "#ffffff",
+        "sideBarSectionHeader.border": "#ffffff8e",
+
+
+        // Selecting / Leaving Lists (folders / arrays etc. Background and font color)
+        "list.activeSelectionBackground": "#ffffff",
+        "list.activeSelectionForeground": "#2e2e2e",
+        "list.inactiveSelectionBackground"  : "#ffffff",
+        "list.inactiveSelectionForeground": "#2e2e2e",
+        "list.hoverBackground": "#800020",
+        "list.hoverForeground": "#ffffff",
+        
+
+        // Git Colors
+        "gitDecoration.modifiedResourceForeground": "#FFFACD",
+        
+        
+        // color for the bottom bar with the terminal
+        "panel.background": "#2e2e2e",
+        "panel.border": "#ffffff",
+        "panelTitle.activeForeground": "#ffffff",
+        "panelTitle.activeBorder": "#6c7597",
+
+
+        // First bar on the bottom
+        "statusBar.background": "#2e2e2e",
+        "statusBar.foreground": "#ffffff",
+        "statusBarItem.remoteBackground": "#800020",
+        "statusBarItem.remoteForeground": "#ffffff",
+
+
+        // Color for shadow of the bar on the top if scrolled down
+        "scrollbar.shadow": "#2e2e2e",
+
+
     },
     "editor.tokenColorCustomizations" : {
         "comments": "#669B5F",

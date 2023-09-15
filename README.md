@@ -1,10 +1,10 @@
-# VSC-Theme_1.0.0-Alpha
+# VSC-Theme_1.0.1-Alpha Milkyway
 This Visual Studio Code Theme uses colors that have been proven to have a positive impact on your mood and increase your ability to spot small mistakes that you may sometimes overlook. This theme is designed so that new users don't have to get used to the color palette of the code because it's either the same or slightly modified which is usally problem while switiching between different themes.
 
 Feel free to fork this repository and add changes that will improve impact of this project
 
 
-<img width="1147" alt="Screenshot 2023-09-10 at 13 53 41" src="https://github.com/kacperbondaruk/VSC-Theme_1.0.0-Alpha/assets/115283771/b70fdba2-4126-4cab-854f-4632ec34ba85">
+<img width="1029" alt="Screenshot 2023-09-16 at 01 46 01" src="https://github.com/kacperbondaruk/VSC-Theme_1.0.0-Alpha/assets/115283771/b29e8bf8-0eb9-439c-9578-10a5e9af14ab">
 
 
 ## How to install
@@ -21,12 +21,15 @@ You might need `Fira Code` text font and Material Icon Them from VSC extensions 
 
 Main colors must be used from this pallete:
 
-- https://colorhunt.co/palette/040d12183d3d5c837493b1a6
+- #6c7597 `Main Color`
+- #2e2e2e `Background and others`
+- #FFFACD `Links and small accents`
+- #FFD700 `Highlight of accents`
+- #800020 `For Important Actions`
 
 
 For others important event:
-- Red color indicates that the actions will be taken or can be taken
-- Yellow color indicates that we are perfoming action
+- Colors Red and Yellow are for perfoming actions
 
 Code for different elements can be found here with given examples:
 

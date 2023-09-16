@@ -4,7 +4,8 @@ This Visual Studio Code Theme uses colors that have been proven to have a positi
 Feel free to fork this repository and add changes that will improve impact of this project
 
 
-<img width="1029" alt="Screenshot 2023-09-16 at 01 46 01" src="https://github.com/kacperbondaruk/VSC-Theme_1.0.0-Alpha/assets/115283771/b29e8bf8-0eb9-439c-9578-10a5e9af14ab">
+<img width="622" alt="Screenshot 2023-09-16 at 13 34 39" src="https://github.com/kacperbondaruk/VSC-Theme_1.0.1-Alpha-Milkyway/assets/115283771/2773018e-af13-498a-8ef7-0bc87ef13939">
+
 
 
 ## How to install

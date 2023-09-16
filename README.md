@@ -6,6 +6,11 @@ Feel free to fork this repository and add changes that will improve impact of th
 
 <img width="622" alt="Screenshot 2023-09-16 at 13 34 39" src="https://github.com/kacperbondaruk/VSC-Theme_1.0.1-Alpha-Milkyway/assets/115283771/2773018e-af13-498a-8ef7-0bc87ef13939">
 
+<img width="622" alt="Screenshot 2023-09-16 at 13 45 31" src="https://github.com/kacperbondaruk/VSC-Theme_1.0.1-Alpha-Milkyway/assets/115283771/806d716f-a30e-490c-b686-e6b6694a0d3d">
+
+
+
+
 
 
 ## How to install

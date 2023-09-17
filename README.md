@@ -1,4 +1,4 @@
-# VSC-Theme_1.0.1-Alpha Milkyway
+# VSC-Theme_1.0.2-Alpha Milkyway
 This Visual Studio Code Theme uses colors that have been proven to have a positive impact on your mood and increase your ability to spot small mistakes that you may sometimes overlook. This theme is designed so that new users don't have to get used to the color palette of the code because it's either the same or slightly modified which is usally problem while switiching between different themes.
 
 Feel free to fork this repository and add changes that will improve impact of this project
@@ -6,8 +6,7 @@ Feel free to fork this repository and add changes that will improve impact of th
 
 <img width="622" alt="Screenshot 2023-09-16 at 13 34 39" src="https://github.com/kacperbondaruk/VSC-Theme_1.0.1-Alpha-Milkyway/assets/115283771/2773018e-af13-498a-8ef7-0bc87ef13939">
 
-<img width="622" alt="Screenshot 2023-09-16 at 13 45 31" src="https://github.com/kacperbondaruk/VSC-Theme_1.0.1-Alpha-Milkyway/assets/115283771/806d716f-a30e-490c-b686-e6b6694a0d3d">
-
+<img width="603" alt="Screenshot 2023-09-17 at 15 54 34" src="https://github.com/kacperbondaruk/VSC-Theme_1.0.1-Alpha-Milkyway/assets/115283771/c5d8d70a-40f5-41dc-a160-caa599172c35">
 
 
 

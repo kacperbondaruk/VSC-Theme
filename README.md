@@ -18,9 +18,9 @@ Find and click `Edit in settings.json`
 
 Then just add changes from settings.json that you pulled from github.
 
-You might need `Fira Code` text font and Material Icon Them from VSC extensions to make sure everything works correctly
+You might need `Fira Code` text font and `Material Icon Theme` from VSC extensions to make sure everything works correctly
 
-<img width="801" alt="Screenshot 2023-09-10 at 14 08 54" src="https://github.com/kacperbondaruk/VSC-Theme_1.0.0-Alpha/assets/115283771/f7870841-15e6-4420-a306-20b1a31bd406">
+<img width="730" alt="Screenshot 2023-09-17 at 15 56 29" src="https://github.com/kacperbondaruk/VSC-Theme_1.0.2-Alpha-Milkyway/assets/115283771/54e0b198-00cc-4cef-85da-89f759ef9f44">
 
 ## Project assumptions
 

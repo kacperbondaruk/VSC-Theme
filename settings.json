@@ -11,6 +11,7 @@
     "editor.autoClosingBrackets": "always",
     "git.suggestSmartCommit": false,
     "editor.inlineSuggest.enabled": true,
+    "editor.smoothScrolling": true,
     "window.zoomLevel": 1,
 
     "workbench.colorCustomizations": {
@@ -20,6 +21,10 @@
         "editor.foreground": "#ffffff",
         "editor.lineHighlightBackground": "#6c759739",
         "editorLineNumber.activeForeground": "#ffffff",
+
+        
+        // Toolbar small icons color
+        "toolbar.hoverBackground": "#800020",
         
 
         // Color for the bar on the left side with the file icons
@@ -40,7 +45,18 @@
 
         // Button color
         "button.background": "#800020",
+        "button.hoverBackground": "#991133",
         "button.foreground": "#ffffff",
+
+
+        // Dropdown color
+        "dropdown.border": "#6c7597",
+        "dropdown.foreground": "#000000",
+        "dropdown.background": "#ffffff",
+        
+
+        // Thin border color that appears when you select something
+        "focusBorder": "#6c7597",
 
 
         // Text with link color
@@ -95,7 +111,6 @@
 
         // Color for shadow of the bar on the top if scrolled down
         "scrollbar.shadow": "#2e2e2e",
-
 
     },
     "editor.tokenColorCustomizations" : {

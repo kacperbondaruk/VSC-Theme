@@ -112,6 +112,10 @@
         // Color for shadow of the bar on the top if scrolled down
         "scrollbar.shadow": "#2e2e2e",
 
+        
+        // Color for the thin lines in explorer folders
+        "tree.indentGuidesStroke": "#FFD700",
+
     },
     "editor.tokenColorCustomizations" : {
         "comments": "#669B5F",
